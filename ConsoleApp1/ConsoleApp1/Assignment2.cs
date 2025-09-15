@@ -28,7 +28,7 @@ namespace ConsoleApp1
             int ageInDays = age * 365;
             Console.WriteLine($"Age in days (approx): {ageInDays}");
 
-            Console.WriteLine($"Today's Date: {DateTime.Now.ToShortDateString()}");
+          
         }
     }
 }
